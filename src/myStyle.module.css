@@ -1,0 +1,20 @@
+.pstyle{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: chartreuse;
+}
+
+.headstyle{
+    font-size: 45px;
+    color: white;
+}
+.headstyle2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    padding: 5px;
+}
+
+.bgstyle1{
+    background-color: blue;
+    padding: 30px;
+}
